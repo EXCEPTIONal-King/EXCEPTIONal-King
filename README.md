@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EXCEPTIONal-King
 - 👀 I’m interested in ... game design
-- 🌱 I’m currently learning ... Next.js, Express.js, and CSS
+- 🌱 I’m currently learning ... Next.js, Express.js, CSS, C#, and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
